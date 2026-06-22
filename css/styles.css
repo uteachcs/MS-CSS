@@ -785,20 +785,20 @@ textarea {
 }
 
 .codio-info::before {
-  background-image: url(../images/green-helpful-info-icon.svg);
+  background-image: url(../images/raspberry-helpful-info-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 /* this is for vocab */
 .codio-definition::before {
-  background-image: url(../images/green-dictionary-icon.svg);
+  background-image: url(../images/raspberry-dictionary-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 .codio-warning::before {
-  background-image: url(../images/green-return-icon.svg);
+  background-image: url(../images/raspberry-return-icon.svg);
 	margin-left: -80px;
 	margin-top: -20px;
 }
@@ -809,7 +809,7 @@ textarea {
 
 /* this is for assessments */
 .codio-challenge::before {
-  background-image: url(../images/green-assessment-icon.svg);
+  background-image: url(../images/raspberry-assessment-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
   
@@ -824,28 +824,28 @@ textarea {
 
 /* this is for our group discussions */
 .codio-meetups::before {
-  background-image: url(../images/green-group-work-icon.svg);
+  background-image: url(../images/raspberry-group-work-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 /* this is our group discussion */
 .codio-headline::before {
-  background-image: url(../images/green-discussion-icon.svg);
+  background-image: url(../images/raspberry-discussion-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 /* this is for pair programming */
 .codio-hackathon::before {
-  background-image: url(../images/green-pair-programming-icon.svg);
+  background-image: url(../images/raspberry-pair-programming-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 /* this is for lesson activities */
 .codio-create::before {
-  background-image: url(../images/green-tryitout-icon.svg);
+  background-image: url(../images/raspberry-tryitout-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
@@ -856,14 +856,14 @@ textarea {
 
 /* this is for unplugged */
 .codio-growthhack::before {
-  background-image: url(../images/green-unplugged-icon.svg);
+  background-image: url(../images/raspberry-unplugged-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
 
 /* this is for coding assignments */
 .codio-debugging::before {
-  background-image: url(../images/green-coding-icon.svg);
+  background-image: url(../images/raspberry-coding-icon.svg);
   margin-left: -80px;
   margin-top: -20px;
 }
