@@ -1,0 +1,19 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "397f60aa-29dd-e4f8-aaa4-f3fe33793c27",
+	"layout": "1-panel-tree",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": true,
+	"title": "Teacher Lesson Plan",
+	"type": "page"
+}

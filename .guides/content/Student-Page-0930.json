@@ -1,0 +1,17 @@
+{
+	"id": "09303730-da25-66ad-3d60-48ceaa983bc1",
+	"title": "Student Page",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

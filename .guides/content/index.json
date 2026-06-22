@@ -1,0 +1,20 @@
+{
+	"allowGuideClose": true,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Teacher-Lesson-Plan-397f",
+		"Student-Page-0930",
+		"Teacher-Only---Additional-Information-a784"
+	],
+	"protectLayout": true,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "2.7 Social Engineering",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

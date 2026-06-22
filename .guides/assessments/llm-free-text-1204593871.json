@@ -1,0 +1,50 @@
+{
+	"type": "llm-free-text",
+	"taskId": "llm-free-text-1204593871",
+	"source": {
+		"name": "q01",
+		"showName": false,
+		"instructions": "what color is the grinch?",
+		"metadata": {
+			"tags": [],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": "",
+		"guidance": "the grinch is green",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"previewType": "NONE",
+		"points": 20,
+		"referenceAnswer": "the grinch is green",
+		"showPreliminaryAiFeedback": false,
+		"rubrics": [
+			{
+				"id": "color_identification",
+				"title": "Color Identification",
+				"description": "Student correctly identifies the Grinch's color as green. This demonstrates basic factual knowledge about this well-known character.",
+				"points": 20,
+				"keyPoints": [
+					"green"
+				],
+				"synonyms": {
+					"green": [
+						"lime",
+						"emerald",
+						"forest green",
+						"dark green",
+						"light green"
+					]
+				},
+				"misconceptions": [
+					"red",
+					"blue",
+					"yellow"
+				]
+			}
+		]
+	}
+}
