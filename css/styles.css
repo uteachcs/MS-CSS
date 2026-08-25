@@ -682,7 +682,7 @@ textarea {
   color: #000000;
   background-color: #D98D9D;
   border-radius: 4px;
-  border: 1px solid #B24D60;
+  border: 1px solid #AA4559;
   box-shadow: 2px 2px 4px #DDD;
   overflow-x: auto;
 }
@@ -698,15 +698,15 @@ textarea {
 }
 
 .codio-definition {
-  background-color: #B24D60;
+  background-color: #AA4559;
   color: #ffffff ;    
-  border: 1px solid #B24D60;
+  border: 1px solid #AA4559;
 }
 
 .codio-info {
   background-color: #f3e4ea;
-  color: #B24D60 ;    
-  border: 1px solid #B24D60;
+  color: #AA4559 ;    
+  border: 1px solid #AA4559;
 }
 
 .codio-warning h1,
@@ -958,7 +958,7 @@ textarea {
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
-  background: #B24D60;
+  background: #AA4559;
   border-radius: 2px;
   color: #fff;
   text-transform: uppercase;
@@ -966,7 +966,7 @@ textarea {
   margin-left: auto;
   margin-right: auto;
   font-family: 'Nunito Sans';
-  border: 1px solid #B24D60;
+  border: 1px solid #AA4559;
 }
 
 .codio-button:focus {
@@ -1083,8 +1083,8 @@ textarea {
 
 .codio-button.codio-assessment-disabled {
   /* ios iframe hack, opacity rerenders whole iframe and scrolls up*/
-  background-color: #B24D60;
-  border-color: #B24D60;
+  background-color: #AA4559;
+  border-color: #AA4559;
 }
 
 .codio-button.codio-button-type-assessment-grade {
